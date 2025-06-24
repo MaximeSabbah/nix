@@ -269,7 +269,7 @@
                   p.proxsuite
                   p.quadprog
                   p.scikit-learn
-		              p.onnxruntime
+		  p.onnxruntime
                   # keep-sorted end
                 ]))
               ];
