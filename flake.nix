@@ -270,6 +270,7 @@
                   p.quadprog
                   p.scikit-learn
 		  p.onnxruntime
+                  p.ezc3d
                   # keep-sorted end
                 ]))
               ];
