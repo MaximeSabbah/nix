@@ -269,8 +269,8 @@
                   p.proxsuite
                   p.quadprog
                   p.scikit-learn
-		  p.onnxruntime
-                  p.ezc3d
+		              p.onnxruntime
+                  p.c3d
                   # keep-sorted end
                 ]))
               ];
